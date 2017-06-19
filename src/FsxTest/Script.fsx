@@ -6,3 +6,5 @@ open FsxTest
 
 let num = Library.hello 42
 printfn "%i" num
+
+let res = Library.b

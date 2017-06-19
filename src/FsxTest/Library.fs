@@ -1,4 +1,4 @@
-﻿namespace FSharp.ProjectTemplate
+namespace FsxTest
 
 /// Documentation for my library
 ///

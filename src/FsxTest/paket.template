@@ -1,0 +1,25 @@
+type project
+title
+    FsxTest
+owners
+    Author not set
+authors 
+    Author not set
+projectUrl
+    https://github.com/[github-user]/FsxTest
+iconUrl
+    https://raw.githubusercontent.com/[github-user]/FsxTest/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/[github-user]/FsxTest/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    fsharp
+summary
+    testing fsx and F# 4.1
+description
+    Description not set
+
+
